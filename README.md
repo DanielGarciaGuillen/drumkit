@@ -10,6 +10,7 @@ Just hit the keys of your keyboard and do some music.
 
 [Drumkit](https://danielgarciaguillen.github.io/drumkit/)
 ![alt text](https://danielgarciaguillen.github.io/drumkit/ "Logo Title Text 1")
+[Drumkit]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ## Built With
 
