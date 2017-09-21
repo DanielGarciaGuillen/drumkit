@@ -19,7 +19,8 @@ Just hit the keys of your keyboard and do some music.
 
 ## Learnings
 
-
+* How to attach keys to audio with the using data-key="45"
+* How to listen to events like keydown and log them on the console
 
 
 
