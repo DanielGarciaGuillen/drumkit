@@ -17,6 +17,7 @@ Just hit the keys of your keyboard and do some music.
 * How to attach keys to audio with the using data-key="45"
 * How to listen to events like "keydown" and log them on the console
 * How to use ES6 template literals `${e.keyCode}`
+* Add class to key inside function with key.classList.add("playing);
 
 
 ## Built With
