@@ -8,7 +8,7 @@ Just hit the keys of your keyboard and do some music.
 
 ## Demo
 
-[Drumkit](https://danielgarciaguillen.github.io/drumkit/)
+## [Drumkit](https://danielgarciaguillen.github.io/drumkit/)
 ![Drumkit](/image/drumkit.png?raw=true "Drumkit")
 
 ## Built With
