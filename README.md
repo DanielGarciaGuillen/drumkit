@@ -9,6 +9,7 @@ Just hit the keys of your keyboard and do some music.
 ## Demo
 
 [Drumkit](https://danielgarciaguillen.github.io/drumkit/)
+![alt text](https://danielgarciaguillen.github.io/drumkit/ "Logo Title Text 1")
 
 ## Built With
 
