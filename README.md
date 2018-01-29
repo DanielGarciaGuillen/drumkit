@@ -26,10 +26,10 @@ Every HTML element may have any number of custom data attributes specified, with
 
 * How to use ES6 template literals `${e.keyCode}`
 
-* Add class to key inside function with key.classList.add("playing)
+* Add class to key inside function with `key.classList.add("playing)`
 
 * Use forEach and ES6 function arrow to add event listener to keys with:
-  key.forEach(key => key.addEventListener('transitioned', removeTransition));
+  `key.forEach(key => key.addEventListener('transitioned', removeTransition));`
 
 ## Built With
 
